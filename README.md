@@ -26,5 +26,5 @@ The objective is to avoid the flying obstacles for as long as possible. The came
 4. Once Unity loads, open the main game scene in the `Assets/Scenes` folder.
 5. Press the **Play** button at the top of the Unity Editor to start driving!
 
-## 👨‍💻 Author
+## Author
 * **Khin Nara** - *IT Engineering Student & Developer*
